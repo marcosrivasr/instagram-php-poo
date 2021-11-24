@@ -1,0 +1,17 @@
+{
+    "name": "marcosrivasr/instagram",
+    "autoload": {
+        "psr-4": {
+            "Marcosrivasr\\Instagram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Rivas",
+            "email": "marcosrivasr@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
